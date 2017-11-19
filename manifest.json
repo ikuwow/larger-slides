@@ -5,7 +5,7 @@
     "content_scripts": [
         {
             "matches": ["https://www.slideshare.net/*"],
-            "js": ["main.js"]
+            "js": ["slideshare.js"]
         }
     ]
 }
