@@ -14,6 +14,7 @@ Make Slideshare/Speakerdeck slides larger
 ## Supported Browsers
 
 * Chrome
+* Safari
 
 ## Installation
 
