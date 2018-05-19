@@ -24,3 +24,12 @@ Make Slideshare/Speakerdeck slides larger
 * Open `chrome://extensions`
 * Switch on `Developer mode`
 * `LOAD UNPACKED` and select downloaded directory
+
+### Safari
+
+* Download zip from [latest release](https://github.com/ikuwow/larger-slides/releases/latest)
+* Unarchive and rename directory to `larger-slides.safariextension`
+* `Preferences...` (⌘+,) -> `Advanced` Tab -> Check `Show Develop menu in menu bar`
+* `Develop` Menu -> `Show Extension Builder` -> Click `+`, `Add Extension...`
+* Select directory `larger-slides.safariextension`
+* Click `Install`
