@@ -22,4 +22,5 @@ Make Slideshare/Speakerdeck slides larger
 * Download zip from [latest release](https://github.com/ikuwow/larger-slides/releases/latest)
 * Unarchive
 * Open `chrome://extensions`
+* Switch on `Developer mode`
 * `LOAD UNPACKED` and select downloaded directory
