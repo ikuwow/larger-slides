@@ -2,6 +2,7 @@
     "manifest_version": 2,
     "name": "Larger Slides",
     "version": "0.1.0",
+    "homepage_url": "https://ikuwow.github.io/larger-slides/",
     "content_scripts": [
         {
             "matches": ["https://www.slideshare.net/*"],
