@@ -6,6 +6,10 @@
         {
             "matches": ["https://www.slideshare.net/*"],
             "js": ["slideshare.js"]
+        },
+        {
+            "matches": ["https://speakerdeck.com/*"],
+            "js": ["speakerdeck.js"]
         }
     ]
 }
