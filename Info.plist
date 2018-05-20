@@ -22,8 +22,8 @@
 		<dict>
 			<key>End</key>
 			<array>
-				<string>slideshare.js</string>
-				<string>speakerdeck.js</string>
+                <string>js/slideshare.js</string>
+                <string>js/speakerdeck.js</string>
 			</array>
 		</dict>
 		<key>Whitelist</key>
